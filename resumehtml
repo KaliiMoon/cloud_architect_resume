@@ -1,83 +1,96 @@
 <!DOCTYPE html>
 <html>
-
 <head>
-    <title>Candace McClendon Resume</title>
+    <meta charset="UTF-8">
+    <title>Candace McClendon - Resume</title>
 </head>
-
 <body>
-    <header>
-        <h1>CANDACE MCCLENDON</h1>
-        <p>
-            <a href="https://www.linkedin.com/in/candace-mcclendon/">LinkedIn Profile</a> &bull; 601-287-1059 &bull; csm154@gmail.com
-        </p>
-    </header>
-
-    <section>
-        <h2>SUMMARY OF QUALIFICATIONS</h2>
-        <ul>
-            <li>Highly skilled and motivated Cloud enthusiast that loves to take initiatives and seek out new challenges. Looking for opportunities as a Cloud Administrator, Cloud Architect, or a Solutions Architect.</li>
-            <li>Core competencies include:
-                <ul>
-                    <li>Basic SQL</li>
-                    <li>AWS [IAM, S3, EC2]</li>
-                    <li>Terraform</li>
-                    <li>Strategic Planning</li>
-                    <li>Problem-solving</li>
-                    <li>Critical Thinking</li>
-                    <li>Software Proficiency</li>
-                    <li>Basic HCL</li>
-                    <li>Communication</li>
-                    <li>Tech Support</li>
-                    <li>Troubleshooting</li>
-                    <li>Data Analysis</li>
-                </ul>
-            </li>
-        </ul>
-    </section>
-
-    <section>
-        <h2>CERTIFICATIONS</h2>
-        <ul>
-            <li>AWS Certified Solutions Architect Associate</li>
-            <li>AWS Certified Cloud Practitioner</li>
-        </ul>
-    </section>
-
-    <section>
-        <h2>HANDS-ON PROJECTS</h2>
-        <ul>
-            <li>Using AWS Budgets to set custom budgets for tracking costs and usage of resources in an AWS account. Setting up alerts by email when actual or forecasted cost and usage exceed budgeted threshold.</li>
-            <li>Using AWS Identity and Access Management (IAM) to manage access to AWS services and resources securely, as well as setting up Multi-Factor Authentication (MFA) for extra protection of the environment.</li>
-            <li>Using Amazon’s unlimited simple storage service (S3) to host a static website where individual web pages include static content.</li>
-            <li>Utilized CloudFront, a fast content delivery network (CDN) service, to securely deliver my TerraHouse on TerraTown's online platform globally, thereby enabling low latency and high transfer speeds for the application.</li>
-        </ul>
-    </section>
-
-    <section>
-        <h2>EXPERIENCE</h2>
-
-        <h3>Optum (Jan 2022 to present)</h3>
-        <p>Senior Medical Coder</p>
-        <ul>
-            <li>Accurately analyzed and coded diagnostic information in patients' medical records according to client-specific guidelines, ensuring compliance with industry standards.</li>
-            <li>Mentored and provided guidance to junior coders, facilitating their professional growth, and ensuring adherence to coding best practices and compliance standards, ultimately contributing to a more skilled coding team and improved coding accuracy.</li>
-            <li>Achieved a 95% coding accuracy rate, ensuring proper reimbursement for healthcare providers.</li>
-        </ul>
-
-        <h3>AWS CloudUp for Her (Feb 2023 to June 2023)</h3>
-        <p>Participated in the Cloud Up for Her program aimed at empowering women entrepreneurs through cloud technology.</p>
-        <p>Conducted AWS labs to explore and implement various cloud services, including IAM, S3, and EC2, enhancing platform performance and security.</p>
-
-
-    <section>
-        <h2>EDUCATION</h2>
-        <p>JACKSON STATE UNIVERSITY – Jackson, MS</p>
-        <p>Bachelor of Science in Healthcare Administration</p>
-
-        <p>HINDS COMMUNITY COLLEGE – Jackson, MS</p>
-        <p>Associate of Applied Science in Health Information Technology, Cum Laude</p>
-    </section>
+    <h1>CANDACE MCCLENDON</h1>
+    <p><a href="https://www.linkedin.com/in/candace-mcclendon/">LinkedIn Profile</a> • 601-287-1059 • csm154@gmail.com</p>
+    
+    <h2>SUMMARY OF QUALIFICATIONS</h2>
+    <p>Highly skilled and motivated Cloud enthusiast that loves to take initiatives and seek out new challenges. Looking for opportunities as a Cloud Administrator, Cloud Architect, or a Solutions Architect. Core competencies include:</p>
+    <ul>
+        <li>Basic SQL</li>
+        <li>AWS [IAM, S3, EC2]</li>
+        <li>Terraform</li>
+        <li>Strategic Planning</li>
+        <li>Problem-solving</li>
+        <li>Critical Thinking</li>
+        <li>Software Proficiency</li>
+        <li>Basic HCL</li>
+        <li>Communication</li>
+        <li>Tech Support</li>
+        <li>Troubleshooting</li>
+        <li>Data Analysis</li>
+    </ul>
+    
+    <h2>CERTIFICATIONS</h2>
+    <ul>
+        <li>AWS Certified Solutions Architect Associate</li>
+        <li>AWS Certified Cloud Practitioner</li>
+    </ul>
+    
+    <h2>HANDS-ON PROJECTS</h2>
+    <ul>
+        <li>Using AWS Budgets to set custom budgets for tracking costs and usage of resources in an AWS account. Setting up alerts by email when actual or forecasted cost and usage exceed budgeted threshold.</li>
+        <li>Using AWS Identity and Access Management (IAM) to manage access to AWS services and resources securely, as well as setting up Multi-Factor Authentication (MFA) for extra protection of the environment.</li>
+        <li>Using Amazon’s unlimited simple storage service (S3) to host a static website where individual web pages include static content.</li>
+        <li>Utilized CloudFront, a fast content delivery network (CDN) service, to securely deliver my TerraHouse on TerraTown's online platform globally, thereby enabling low latency and high transfer speeds for the application.</li>
+    </ul>
+    
+    <h2>EXPERIENCE</h2>
+    
+    <h3>Optum - Jan 2022 to present</h3>
+    <p>Senior Medical Coder</p>
+    <ul>
+        <li>Accurately analyzed and coded diagnostic information in patients' medical records according to client-specific guidelines, ensuring compliance with industry standards.</li>
+        <li>Mentored and provided guidance to junior coders, facilitating their professional growth, and ensuring adherence to coding best practices and compliance standards, ultimately contributing to a more skilled coding team and improved coding accuracy.</li>
+        <li>Achieved a 95% coding accuracy rate, ensuring proper reimbursement for healthcare providers.</li>
+    </ul>
+    
+    <h3>AWS CloudUp for Her - Feb 2023 to June 2023</h3>
+    <p>Participated in the Cloud Up for Her program aimed at empowering women entrepreneurs through cloud technology.</p>
+    <p>Conducted AWS labs to explore and implement various cloud services, including IAM, S3, and EC2, enhancing platform performance and security.</p>
+    
+    <h3>Steward Healthcare Systems LLC - July 2019 to Aug 2021</h3>
+    <p>Enterprise Master Patient Index Coordinator</p>
+    <ul>
+        <li>Managed and resolved an average of 50 help desk tickets per week using advanced software and tools, ensuring timely resolution and user satisfaction.</li>
+        <li>Successfully resolved complex user issues and escalations, maintaining regular communication with users throughout the process.</li>
+        <li>Collaborated with technical teams to identify and implement system improvements, optimizing user experience and reducing security risks.</li>
+        <li>Effectively managed and maintained patient data using IBM InfoSphere and MDM software.</li>
+    </ul>
+    
+    <h3>Working Solutions - Nov 2018 to May 2019</h3>
+    <p>Independent Contractor/TriWest Healthcare Alliance</p>
+    <ul>
+        <li>Resolved an average of 60 technical issues daily during the medical referrals transition, ensuring accurate and complete documentation within the system.</li>
+        <li>Maintained 100% compliance with HIPAA regulations to safeguard veteran's health information privacy.</li>
+        <li>Identified deficiencies in documentation, resulting in a 20% increase in compliance efforts.</li>
+    </ul>
+    
+    <h3>MEDIX - Jul 2018 to Nov 2018</h3>
+    <p>Medical Records Analyst</p>
+    <ul>
+        <li>Implemented a new process that reduced medical record duplicates in Meditech EHR system by 35%.</li>
+        <li>Ensured medical record integrity by reviewing 200 records daily for duplicates, multiple entries, and overlays.</li>
+        <li>Trained and established team knowledge baseline for consistent outputs.</li>
+    </ul>
+    
+    <h3>CHAMPION NATIONAL SECURITY - Mar 2015 to Nov 2015</h3>
+    <p>Security Officer</p>
+    <ul>
+        <li>Provided a high profile, visible presence to protect life and property and to deter the risk of loss or criminal activity resulting in destruction of property, injury, or loss of life.</li>
+        <li>Screened visitors and client employees in an efficient manner to expedite their admittance to the facility.</li>
+    </ul>
+    
+    <h2>EDUCATION</h2>
+    <p>JACKSON STATE UNIVERSITY – Jackson, MS</p>
+    <p>Bachelor of Science in Healthcare Administration</p>
+    
+    <p>HINDS COMMUNITY COLLEGE – Jackson, MS</p>
+    <p>Associate of Applied Science in Health Information Technology, Cum Laude</p>
 </body>
-
 </html>
+
