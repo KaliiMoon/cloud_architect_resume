@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Candace McClendon Resume</title>
+</head>
+
+<body>
+    <header>
+        <h1>CANDACE MCCLENDON</h1>
+        <p>
+            <a href="https://www.linkedin.com/in/candace-mcclendon/">LinkedIn Profile</a> &bull; 601-287-1059 &bull; csm154@gmail.com
+        </p>
+    </header>
+
+    <section>
+        <h2>SUMMARY OF QUALIFICATIONS</h2>
+        <ul>
+            <li>Highly skilled and motivated Cloud enthusiast that loves to take initiatives and seek out new challenges. Looking for opportunities as a Cloud Administrator, Cloud Architect, or a Solutions Architect.</li>
+            <li>Core competencies include:
+                <ul>
+                    <li>Basic SQL</li>
+                    <li>AWS [IAM, S3, EC2]</li>
+                    <li>Terraform</li>
+                    <li>Strategic Planning</li>
+                    <li>Problem-solving</li>
+                    <li>Critical Thinking</li>
+                    <li>Software Proficiency</li>
+                    <li>Basic HCL</li>
+                    <li>Communication</li>
+                    <li>Tech Support</li>
+                    <li>Troubleshooting</li>
+                    <li>Data Analysis</li>
+                </ul>
+            </li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>CERTIFICATIONS</h2>
+        <ul>
+            <li>AWS Certified Solutions Architect Associate</li>
+            <li>AWS Certified Cloud Practitioner</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>HANDS-ON PROJECTS</h2>
+        <ul>
+            <li>Using AWS Budgets to set custom budgets for tracking costs and usage of resources in an AWS account. Setting up alerts by email when actual or forecasted cost and usage exceed budgeted threshold.</li>
+            <li>Using AWS Identity and Access Management (IAM) to manage access to AWS services and resources securely, as well as setting up Multi-Factor Authentication (MFA) for extra protection of the environment.</li>
+            <li>Using Amazon’s unlimited simple storage service (S3) to host a static website where individual web pages include static content.</li>
+            <li>Utilized CloudFront, a fast content delivery network (CDN) service, to securely deliver my TerraHouse on TerraTown's online platform globally, thereby enabling low latency and high transfer speeds for the application.</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>EXPERIENCE</h2>
+
+        <h3>Optum (Jan 2022 to present)</h3>
+        <p>Senior Medical Coder</p>
+        <ul>
+            <li>Accurately analyzed and coded diagnostic information in patients' medical records according to client-specific guidelines, ensuring compliance with industry standards.</li>
+            <li>Mentored and provided guidance to junior coders, facilitating their professional growth, and ensuring adherence to coding best practices and compliance standards, ultimately contributing to a more skilled coding team and improved coding accuracy.</li>
+            <li>Achieved a 95% coding accuracy rate, ensuring proper reimbursement for healthcare providers.</li>
+        </ul>
+
+        <h3>AWS CloudUp for Her (Feb 2023 to June 2023)</h3>
+        <p>Participated in the Cloud Up for Her program aimed at empowering women entrepreneurs through cloud technology.</p>
+        <p>Conducted AWS labs to explore and implement various cloud services, including IAM, S3, and EC2, enhancing platform performance and security.</p>
+
+
+    <section>
+        <h2>EDUCATION</h2>
+        <p>JACKSON STATE UNIVERSITY – Jackson, MS</p>
+        <p>Bachelor of Science in Healthcare Administration</p>
+
+        <p>HINDS COMMUNITY COLLEGE – Jackson, MS</p>
+        <p>Associate of Applied Science in Health Information Technology, Cum Laude</p>
+    </section>
+</body>
+
+</html>
