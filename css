@@ -1,0 +1,61 @@
+/* Styles for the resume */
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+h1 {
+  font-size: 24px;
+}
+
+h2 {
+  font-size: 18px;
+}
+
+ul {
+  list-style-type: square;
+}
+
+/* Contact information */
+.contact-info {
+  margin-bottom: 20px;
+}
+
+/* Summary of Qualifications */
+.summary {
+  margin-bottom: 20px;
+}
+
+/* Core competencies */
+.core-competencies {
+  list-style-type: disc;
+  margin-left: 20px;
+}
+
+/* Certifications */
+.certifications {
+  margin-bottom: 20px;
+}
+
+/* Hands-on Projects */
+.projects {
+  margin-bottom: 20px;
+}
+
+/* Experience */
+.experience {
+  margin-bottom: 20px;
+}
+
+/* Education */
+.education {
+  margin-bottom: 20px;
+}
